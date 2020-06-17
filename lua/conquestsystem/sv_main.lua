@@ -4,6 +4,9 @@ AddCSLuaFile("cl_main.lua")
 AddCSLuaFile("ui/base.lua")
 AddCSLuaFile("ui/cq_button.lua")
 AddCSLuaFile("ui/cq_listview.lua")
+
+resource.AddWorkshop("856750138")
+
 --[[-------------------------------------------------------------------------
 HOOKS
 ---------------------------------------------------------------------------]]
